@@ -1,0 +1,59 @@
+@page "{id:int}"
+@model TelegramBotLearning.Pages.Course.EditModel
+@{
+    ViewData["Title"] = "Редактирование курса";
+}
+
+<div class="container mt-4">
+    <h1>Редактирование курса</h1>
+
+    <div class="row">
+        <div class="col-md-8">
+            <form method="post" enctype="multipart/form-data">
+                <input type="hidden" asp-for="Course.Id" />
+                <input type="hidden" asp-for="Course.InstructorId" />
+                <input type="hidden" asp-for="Course.ImageUrl" />
+
+                <div class="form-group mb-3">
+                    <label asp-for="Course.Title" class="control-label">Название</label>
+                    <input asp-for="Course.Title" class="form-control" />
+                    <span asp-validation-for="Course.Title" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Course.Description" class="control-label">Описание</label>
+                    <textarea asp-for="Course.Description" class="form-control" rows="5"></textarea>
+                    <span asp-validation-for="Course.Description" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="control-label">Изображение курса</label>
+                    <input type="file" name="ImageFile" class="form-control" accept="image/*" />
+                    <small class="form-text text-muted">Оставьте пустым, чтобы сохранить текущее изображение</small>
+                </div>
+
+                <div class="form-group mb-3">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fas fa-save"></i> Сохранить
+                    </button>
+                    <a asp-page="./Details" asp-route-id="@Model.Course.Id" class="btn btn-secondary">
+                        <i class="fas fa-arrow-left"></i> Назад
+                    </a>
+                </div>
+            </form>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card">
+                <img src="@Model.Course.ImageUrl" class="card-img-top" alt="@Model.Course.Title" style="max-height: 300px; width: 100%; object-fit: contain;">
+                <div class="card-body">
+                    <h5 class="card-title">Текущее изображение</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} 
