@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "55GrtTBvl+crMZoiTbH0/kRxZv0J0fuffZdj2TvU4Nc=",
+  "Hash": "f7AV9JybtzBt4fthi/dbbYyjexHWcy4Wpp5AYAsS3wU=",
   "Source": "TelegramBotLearning",
   "BasePath": "_content/TelegramBotLearning",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TelegramBotLearning\\wwwroot",
       "Source": "TelegramBotLearning",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TelegramBotLearning.styles.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TelegramBotLearning.styles.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "TelegramBotLearning#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "B2Y+z1+P6s252qTavpnZz8Sje7HqtGi7UmhLZitbjX4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\сайты\\project\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TelegramBotLearning.styles.css"
+      "OriginalItemSpec": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TelegramBotLearning.styles.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TelegramBotLearning.bundle.scp.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TelegramBotLearning.bundle.scp.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "TelegramBotLearning#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "B2Y+z1+P6s252qTavpnZz8Sje7HqtGi7UmhLZitbjX4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\сайты\\project\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TelegramBotLearning.bundle.scp.css"
+      "OriginalItemSpec": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TelegramBotLearning.bundle.scp.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\css\\site.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\css\\site.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\favicon.ico",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\favicon.ico",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\images\\course1.png",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\images\\course1.png",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "images/course1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course1.png"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\images\\course2.png",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\images\\course2.png",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "images/course2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course2.png"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\js\\site.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\js\\site.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/jquery/dist/jquery.slim#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/jquery/dist/jquery.slim.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/jquery/dist/jquery.slim.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TelegramBotLearning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\",
+      "ContentRoot": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\",
       "BasePath": "_content/TelegramBotLearning",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1427,7 +1427,7 @@
   "Endpoints": [
     {
       "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1472,7 +1472,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1509,7 +1509,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1554,7 +1554,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1591,7 +1591,7 @@
     },
     {
       "Route": "images/course1.fk2wixt8of.png",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\images\\course1.png",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\images\\course1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1636,7 +1636,7 @@
     },
     {
       "Route": "images/course1.png",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\images\\course1.png",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\images\\course1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1673,7 +1673,7 @@
     },
     {
       "Route": "images/course2.png",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\images\\course2.png",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\images\\course2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1710,7 +1710,7 @@
     },
     {
       "Route": "images/course2.r0jzs0bk4l.png",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\images\\course2.png",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\images\\course2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1755,7 +1755,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1792,7 +1792,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1837,7 +1837,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.bqjiyaj88i.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1882,7 +1882,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1919,7 +1919,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.c2jlpeoesf.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1964,7 +1964,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2001,7 +2001,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2038,7 +2038,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.aexeepp0ev.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2083,7 +2083,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2120,7 +2120,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.erw9l3u2r3.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2165,7 +2165,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2202,7 +2202,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.ausgxo2sd3.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2247,7 +2247,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2284,7 +2284,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.d7shbmvgxk.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2329,7 +2329,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2366,7 +2366,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.cosvhxvwiu.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2411,7 +2411,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2448,7 +2448,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.k8d9w2qqmf.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2493,7 +2493,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2530,7 +2530,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.fvhpjtyr6v.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2575,7 +2575,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2612,7 +2612,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.b7pk76d08c.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2657,7 +2657,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2694,7 +2694,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.fsbi9cje9m.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2739,7 +2739,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2776,7 +2776,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2813,7 +2813,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.ee0r1s7dh0.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2858,7 +2858,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2895,7 +2895,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2932,7 +2932,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.jd9uben2k1.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2977,7 +2977,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3014,7 +3014,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.dxx9fxp4il.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3059,7 +3059,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.rzd6atqjts.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3104,7 +3104,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.ub07r2b239.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3149,7 +3149,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3186,7 +3186,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3223,7 +3223,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.r4e9w2rdcm.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3268,7 +3268,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.khv3u5hwcm.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3313,7 +3313,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3350,7 +3350,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.c2oey78nd0.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3395,7 +3395,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3432,7 +3432,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.lcd1t2u6c8.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3477,7 +3477,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3514,7 +3514,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.j5mq2jizvt.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3559,7 +3559,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3596,7 +3596,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.06098lyss8.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3641,7 +3641,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3678,7 +3678,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3715,7 +3715,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.nvvlpmu67g.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3760,7 +3760,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.tdbxkamptv.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3805,7 +3805,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3842,7 +3842,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3879,7 +3879,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3924,7 +3924,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.46ein0sx1k.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3969,7 +3969,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4006,7 +4006,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4043,7 +4043,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4088,7 +4088,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4133,7 +4133,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4170,7 +4170,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4215,7 +4215,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4252,7 +4252,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4289,7 +4289,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4334,7 +4334,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4371,7 +4371,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.pk9g2wxc8p.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4416,7 +4416,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4461,7 +4461,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.6cfz1n2cew.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4506,7 +4506,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4543,7 +4543,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.6pdc2jztkx.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4588,7 +4588,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4625,7 +4625,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.493y06b0oq.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4670,7 +4670,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4707,7 +4707,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.iovd86k7lj.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4752,7 +4752,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4789,7 +4789,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4826,7 +4826,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.kbrnm935zg.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4871,7 +4871,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4908,7 +4908,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.jj8uyg4cgr.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4953,7 +4953,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4990,7 +4990,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5027,7 +5027,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.y7v9cxd14o.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5072,7 +5072,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.vr1egmr9el.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5117,7 +5117,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5154,7 +5154,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.h1s4sie4z3.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5199,7 +5199,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5236,7 +5236,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.63fj8s7r0e.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5281,7 +5281,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5318,7 +5318,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.0j3bgjxly4.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5363,7 +5363,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5400,7 +5400,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.notf2xhcfb.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5445,7 +5445,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5482,7 +5482,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5527,7 +5527,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5572,7 +5572,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5609,7 +5609,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5654,7 +5654,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5691,7 +5691,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5736,7 +5736,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5773,7 +5773,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.83jwlth58m.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5818,7 +5818,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5855,7 +5855,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5892,7 +5892,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.mrlpezrjn3.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5937,7 +5937,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5974,7 +5974,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.lzl9nlhx6b.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6019,7 +6019,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.ag7o75518u.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6064,7 +6064,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6101,7 +6101,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6138,7 +6138,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6183,7 +6183,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.0i3buxo5is.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6228,7 +6228,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6265,7 +6265,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6302,7 +6302,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6339,7 +6339,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.o1o13a6vjx.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6384,7 +6384,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.ttgo8qnofa.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6429,7 +6429,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.2z0ns9nrw6.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6474,7 +6474,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6511,7 +6511,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.min.87fc7y1x7t.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6556,7 +6556,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.min.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6593,7 +6593,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.min.map",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6630,7 +6630,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.min.muycvpuwrr.js",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6675,7 +6675,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6720,7 +6720,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6757,7 +6757,7 @@
     },
     {
       "Route": "TelegramBotLearning.bundle.scp.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TelegramBotLearning.bundle.scp.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TelegramBotLearning.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6778,7 +6778,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 15:51:56 GMT"
+          "Value": "Mon, 09 Jun 2025 09:23:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6794,7 +6794,7 @@
     },
     {
       "Route": "TelegramBotLearning.lt9p4yhhtc.bundle.scp.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TelegramBotLearning.bundle.scp.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TelegramBotLearning.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6815,7 +6815,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 15:51:56 GMT"
+          "Value": "Mon, 09 Jun 2025 09:23:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6839,7 +6839,7 @@
     },
     {
       "Route": "TelegramBotLearning.lt9p4yhhtc.styles.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TelegramBotLearning.styles.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TelegramBotLearning.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6860,7 +6860,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 15:51:56 GMT"
+          "Value": "Mon, 09 Jun 2025 09:23:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6884,7 +6884,7 @@
     },
     {
       "Route": "TelegramBotLearning.styles.css",
-      "AssetFile": "C:\\сайты\\project\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TelegramBotLearning.styles.css",
+      "AssetFile": "C:\\сайты\\PyTeleBot\\TelegramBotLearning\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TelegramBotLearning.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6905,7 +6905,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 15:51:56 GMT"
+          "Value": "Mon, 09 Jun 2025 09:23:02 GMT"
         },
         {
           "Name": "Cache-Control",
